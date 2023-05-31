@@ -5,10 +5,11 @@
   "dependencies": {
     "@capacitor/android": "^4.0.0",
     "@capacitor/camera": "^4.0.0",
-    "@capacitor/core": "^4.0.0",
+    "@capacitor/core": "^4.8.0",
     "@capacitor/filesystem": "^4.0.0",
     "@capacitor/ios": "^4.0.0",
     "@capacitor/preferences": "^4.0.1",
+    "@capacitor/toast": "^5.0.2",
     "@ionic/pwa-elements": "^3.1.1",
     "@ionic/react": "^6.0.0",
     "@ionic/react-router": "^6.0.0",
@@ -68,7 +69,7 @@
     ]
   },
   "devDependencies": {
-    "@capacitor/cli": "^4.0.0"
+    "@capacitor/cli": "^4.8.0"
   },
   "description": "Build a photo gallery app that runs on iOS, Android, and the web - with just one codebase."
 }

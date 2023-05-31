@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.demo.pg.react",
-	"appName": "React Photo Gallery",
+	"appId": "com.gsoft.ionic",
+	"appName": "learning app",
 	"bundledWebRuntime": false,
 	"npmClient": "npm",
 	"webDir": "build",
