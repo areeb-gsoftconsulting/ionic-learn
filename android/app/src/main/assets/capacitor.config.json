@@ -1,7 +1,7 @@
 {
 	"appId": "com.gsoft.ionic",
 	"appName": "learning app",
-	"bundledWebRuntime": false,
+	"bundledWebRuntime": true,
 	"npmClient": "npm",
 	"webDir": "build",
 	"cordova": {}
