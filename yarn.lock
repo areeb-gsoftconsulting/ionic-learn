@@ -1170,6 +1170,11 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
+"@capacitor/action-sheet@^5.0.2":
+  version "5.0.2"
+  resolved "https://registry.yarnpkg.com/@capacitor/action-sheet/-/action-sheet-5.0.2.tgz#ba6b8afa18a6937aac27b5f18738dac056485ef2"
+  integrity sha512-3TJZpTdIG3xeP5wJdoRnJOLtadIQ6cInBwqwd4ZrSjcykuSaGFWt1gwPPFZrX2zdAiEBbhO//5oVfENgqmPbEA==
+
 "@capacitor/android@^4.0.0":
   version "4.8.0"
   resolved "https://registry.yarnpkg.com/@capacitor/android/-/android-4.8.0.tgz#e63bb6c9f56834c694b591f4aaf44fe0a59e6364"
