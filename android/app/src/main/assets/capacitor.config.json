@@ -1,8 +1,11 @@
 {
 	"appId": "com.gsoft.ionic",
 	"appName": "learning app",
-	"bundledWebRuntime": false,
+	"bundledWebRuntime": true,
 	"npmClient": "npm",
 	"webDir": "build",
-	"cordova": {}
+	"cordova": {},
+	"server": {
+		"url": "http://192.168.1.4:8102"
+	}
 }
