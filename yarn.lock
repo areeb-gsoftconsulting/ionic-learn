@@ -1170,6 +1170,11 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
+"@capacitor-community/text-to-speech@^3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@capacitor-community/text-to-speech/-/text-to-speech-3.0.0.tgz#1d246332196e4b00383e0b844a406f4c65e8262b"
+  integrity sha512-N9kLiEvElhKBhOXHMPbaWI4pXetXMoPKAfCniryw8V1vmiUUTEYAjNlgbmAJrWkHQsemYW+Udtq/GvownpgWmw==
+
 "@capacitor/android@^4.0.0":
   version "4.8.0"
   resolved "https://registry.yarnpkg.com/@capacitor/android/-/android-4.8.0.tgz#e63bb6c9f56834c694b591f4aaf44fe0a59e6364"
