@@ -10,7 +10,17 @@ import {
 import ExploreContainer from "../components/ExploreContainer";
 import "./Tab1.css";
 import ShowHelloToast from "../components/ToastComp";
+
+import { Geolocation } from "@capacitor/geolocation";
 const Tab1: React.FC = () => {
+  const printCurrentPosition = async () => {
+    try {
+      const coordinates = await Geolocation.getCurrentPosition();
+      console.log("Current position:", coordinates);
+    } catch (error) {
+      console.log("Current position:", error);
+    }
+  };
   return (
     <IonPage>
       <IonHeader>
@@ -26,6 +36,7 @@ const Tab1: React.FC = () => {
             <IonButton onClick={() => ShowHelloToast("ok Good Work")}>
               Button
             </IonButton>
+            <IonButton onClick={printCurrentPosition}>Button Loc</IonButton>
           </IonToolbar>
         </IonHeader>
         <ExploreContainer name="Tab 1 page" />
