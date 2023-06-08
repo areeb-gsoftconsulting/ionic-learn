@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "7458e44464b0a5f189e13c611f1daa0148b06b3387546d32cb1069e9e0350541"
+build_start_time: [1686227008, 894665956]
+build_end_time: [1686227008, 972168922]
+inputs:
+  "/Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/preferences/ios/Plugin/Preferences.swift": !private [1686210773, 523998975]
+  "/Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/preferences/ios/Plugin/PreferencesPlugin.swift": !private [1686210773, 523998975]

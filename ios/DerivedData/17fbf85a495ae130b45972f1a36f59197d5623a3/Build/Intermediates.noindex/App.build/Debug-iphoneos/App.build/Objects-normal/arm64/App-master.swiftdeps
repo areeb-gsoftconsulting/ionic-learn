@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "ad0da52100fb9dd47e61c80f117f85d79bcca02f5c6c336501a13b22ab557763"
+build_start_time: [1686227015, 712015151]
+build_end_time: [1686227041, 453241825]
+inputs:
+  "/Users/macuser/Desktop/ionicLearning/learningapp/ios/App/App/AppDelegate.swift": [1685445223, 546477794]

@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "22cd49b5fbc7388ae6ffb6cf0f3066af79bca4720385e9b35bb76af02120a2d7"
+build_start_time: [1686227009, 505396842]
+build_end_time: [1686227009, 549480915]
+inputs:
+  "/Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/filesystem/ios/Plugin/Filesystem.swift": !private [1686210773, 526000022]
+  "/Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/filesystem/ios/Plugin/FilesystemPlugin.swift": !private [1686210773, 526000022]

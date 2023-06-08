@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "d039ab93a283be605c4d0b59c331377ff3fd72d73f22d2da91d8b43af9b34b2e"
+build_start_time: [1686227009, 727530002]
+build_end_time: [1686227009, 778249979]
+inputs:
+  "/Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor-community/speech-recognition/ios/Plugin/Plugin.swift": !private [1686224756, 407999038]

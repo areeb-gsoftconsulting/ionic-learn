@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "3ae7df6b1fac2316ade22c869600822c8f9133f1f1ddaa845ef594f8d98eceb3"
+build_start_time: [1686227010, 532267093]
+build_end_time: [1686227014, 950132846]
+inputs:
+  "/Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/camera/ios/Plugin/CameraExtensions.swift": [1686210773, 520998954]
+  "/Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/camera/ios/Plugin/CameraPlugin.swift": [1686210773, 520998954]
+  "/Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/camera/ios/Plugin/CameraTypes.swift": [1686210773, 520998954]
+  "/Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/camera/ios/Plugin/ImageSaver.swift": [1686210773, 520998954]

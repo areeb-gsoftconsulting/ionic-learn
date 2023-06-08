@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "679413c0485c6b5b2fbc14e7ad6883cc47de1d1b5ee24c946ae693775636227b"
+build_start_time: [1686227009, 383737087]
+build_end_time: [1686227012, 683940887]
+inputs:
+  "/Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/geolocation/ios/Plugin/GeolocationPlugin.swift": [1686210773, 530998945]

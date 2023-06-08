@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import {
   IonButton,
   IonContent,
@@ -9,18 +9,38 @@ import {
 } from "@ionic/react";
 import ExploreContainer from "../components/ExploreContainer";
 import "./Tab1.css";
-import ShowHelloToast from "../components/ToastComp";
+import { SpeechRecognition } from "@capacitor-community/speech-recognition";
 
-import { Geolocation } from "@capacitor/geolocation";
 const Tab1: React.FC = () => {
-  const printCurrentPosition = async () => {
+  const [transcript, setTranscript] = useState("");
+
+  const handleVoice = async () => {
     try {
-      const coordinates = await Geolocation.getCurrentPosition();
-      console.log("Current position:", coordinates);
+      let result = await SpeechRecognition.start({
+        language: "en-US",
+        maxResults: 2,
+        prompt: "Say something",
+        partialResults: true,
+        popup: true,
+      });
+      const speechResult = result?.matches[0];
+      setTranscript(speechResult);
+      console.log("==>", speechResult);
     } catch (error) {
-      console.log("Current position:", error);
+      alert("Plz try again");
     }
   };
+  const handleStop = () => {
+    SpeechRecognition.stop();
+  };
+
+  let permissions = SpeechRecognition.checkPermissions();
+  console.log({ permissions });
+
+  useEffect(() => {
+    SpeechRecognition.requestPermissions();
+    SpeechRecognition.available();
+  }, []);
   return (
     <IonPage>
       <IonHeader>
@@ -33,10 +53,10 @@ const Tab1: React.FC = () => {
           <IonToolbar>
             <IonTitle size="large">Tab 1</IonTitle>
             <IonTitle size="large">Title</IonTitle>
-            <IonButton onClick={() => ShowHelloToast("ok Good Work")}>
-              Button
-            </IonButton>
-            <IonButton onClick={printCurrentPosition}>Button Loc</IonButton>
+
+            <IonButton onClick={handleVoice}>Start Voice</IonButton>
+            <IonButton onClick={handleStop}>Stop Voice</IonButton>
+            <h1>{transcript}</h1>
           </IonToolbar>
         </IonHeader>
         <ExploreContainer name="Tab 1 page" />

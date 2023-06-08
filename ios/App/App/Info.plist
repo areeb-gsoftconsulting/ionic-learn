@@ -31,6 +31,10 @@
 	</array>
 	<key>CFBundleVersion</key>
 	<string>1</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Privacy - Speech Recognition Usage Description</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Privacy - Microphone Usage Description</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSCameraUsageDescription</key>
