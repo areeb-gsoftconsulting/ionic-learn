@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/filesystem/ios/Plugin/FilesystemPlugin.m \
+  /Users/macuser/Desktop/ionicLearning/learningapp/ios/DerivedData/9AFF6E2B-1F46-4D68-A399-A6992A42D26F/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CapacitorFilesystem.build/module.modulemap \
+  /Users/macuser/Desktop/ionicLearning/learningapp/ios/App/Pods/Target\ Support\ Files/CapacitorFilesystem/CapacitorFilesystem-prefix.pch \
+  /Users/macuser/Desktop/ionicLearning/learningapp/ios/DerivedData/9AFF6E2B-1F46-4D68-A399-A6992A42D26F/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/module.modulemap \
+  /Users/macuser/Desktop/ionicLearning/learningapp/ios/DerivedData/9AFF6E2B-1F46-4D68-A399-A6992A42D26F/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CapacitorCordova.build/module.modulemap \
+  /Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/ios/CapacitorCordova/CapacitorCordova/Classes/Public/NSDictionary+CordovaPreferences.h \
+  /Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/ios/CapacitorCordova/CapacitorCordova/Classes/Public/CDVPlugin+Resources.h \
+  /Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/ios/CapacitorCordova/CapacitorCordova/Classes/Public/CDVConfigParser.h \
+  /Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/ios/CapacitorCordova/CapacitorCordova/Classes/Public/CDVPluginManager.h \
+  /Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/ios/CapacitorCordova/CapacitorCordova/Classes/Public/CDVCommandDelegateImpl.h \
+  /Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/ios/CapacitorCordova/CapacitorCordova/Classes/Public/CDVScreenOrientationDelegate.h \
+  /Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/ios/CapacitorCordova/CapacitorCordova/Classes/Public/CDVURLProtocol.h \
+  /Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/ios/CapacitorCordova/CapacitorCordova/Classes/Public/CDVInvokedUrlCommand.h \
+  /Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/ios/CapacitorCordova/CapacitorCordova/Classes/Public/CDVCommandDelegate.h \
+  /Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/ios/CapacitorCordova/CapacitorCordova/Classes/Public/CDVPluginResult.h \
+  /Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/ios/CapacitorCordova/CapacitorCordova/Classes/Public/CDVPlugin.h \
+  /Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/ios/CapacitorCordova/CapacitorCordova/Classes/Public/CDVAvailability.h \
+  /Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/ios/CapacitorCordova/CapacitorCordova/Classes/Public/CDV.h \
+  /Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/ios/CapacitorCordova/CapacitorCordova/Classes/Public/CDVViewController.h \
+  /Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/ios/CapacitorCordova/CapacitorCordova/Classes/Public/AppDelegate.h \
+  /Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/ios/CapacitorCordova/CapacitorCordova/CapacitorCordova.h \
+  /Users/macuser/Desktop/ionicLearning/learningapp/ios/DerivedData/9AFF6E2B-1F46-4D68-A399-A6992A42D26F/Build/Products/Debug-iphonesimulator/Capacitor/Capacitor.framework/Headers/Capacitor-Swift.h \
+  /Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/ios/Capacitor/Capacitor/WKWebView+Capacitor.h \
+  /Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPInstanceConfiguration.h \
+  /Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPInstanceDescriptor.h \
+  /Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPPluginMethod.h \
+  /Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPBridgedPlugin.h \
+  /Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPPluginCall.h \
+  /Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPPlugin.h \
+  /Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/ios/Capacitor/Capacitor/Capacitor.h

@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "521f1176d69d3a569e00f3d03837a19add75ae4c964337bea464d4f7a5a4e471"
+build_start_time: [1686203166, 605719089]
+build_end_time: [1686203169, 139996051]
+inputs:
+  "/Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/toast/ios/Plugin/Toast.swift": [1685449458, 801000118]
+  "/Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/toast/ios/Plugin/ToastLabel.swift": [1685449458, 801000118]
+  "/Users/macuser/Desktop/ionicLearning/learningapp/node_modules/@capacitor/toast/ios/Plugin/ToastPlugin.swift": [1685449458, 801000118]
