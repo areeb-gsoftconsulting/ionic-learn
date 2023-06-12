@@ -10,6 +10,7 @@ import {
 import ExploreContainer from "../components/ExploreContainer";
 import "./Tab1.css";
 import { SpeechRecognition } from "@capacitor-community/speech-recognition";
+import { LocalNotifications } from "@capacitor/local-notifications";
 
 const Tab1: React.FC = () => {
   const [transcript, setTranscript] = useState("");
@@ -28,6 +29,37 @@ const Tab1: React.FC = () => {
       console.log("==>", speechResult);
     } catch (error) {
       alert("Plz try again");
+    }
+  };
+
+  useEffect(() => {
+    let x = LocalNotifications.requestPermissions();
+    console.log({ x });
+  }, []);
+
+  LocalNotifications.addListener(
+    "localNotificationActionPerformed",
+    (payload) => {
+      // triggers when the notification is clicked.
+      console.log("notification triggered:", payload);
+    }
+  );
+
+  const sendNotifi = async () => {
+    try {
+      let res = await LocalNotifications.schedule({
+        notifications: [
+          {
+            title: "Ionic Gsoft App",
+            body: "short decription...",
+            id: 1,
+          },
+        ],
+      });
+
+      console.log({ res });
+    } catch (error) {
+      console.log({ error });
     }
   };
 
@@ -76,6 +108,8 @@ const Tab1: React.FC = () => {
             <IonButton onClick={handleVoice}>Start Voice</IonButton>
             <IonButton onClick={handleStop}>Stop Voice</IonButton>
             <h1>{transcript}</h1>
+
+            <IonButton onClick={sendNotifi}>Notifi</IonButton>
           </IonToolbar>
         </IonHeader>
         <ExploreContainer name="Tab 1 page" />

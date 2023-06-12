@@ -1141,6 +1141,11 @@
   resolved "https://registry.yarnpkg.com/@capacitor/ios/-/ios-5.0.5.tgz#799c6eb3bf5988ff1e394a28d7f5caa8435460da"
   integrity sha512-U72TPbKN1HlUqEGCOPsCBp6j93Qu1TazWUuA8Q1yfcGDfSOE0zMDNl3eU7XO5OyzpV7z9lf8NJdehimezVl7sA==
 
+"@capacitor/local-notifications@^4.0.4":
+  version "4.1.5"
+  resolved "https://registry.yarnpkg.com/@capacitor/local-notifications/-/local-notifications-4.1.5.tgz#a547ca0d0f1598a68bdd35310d642e5e70f79e1d"
+  integrity sha512-zUU4WvXxweALIDp9gBjurpwF9drLeMNe+O5tVKiUr/8PsaxB9dlv2ciuN5Seq4b+9LftOfTuzEX2PY7JkOJy1g==
+
 "@capacitor/preferences@^4.0.1":
   version "4.0.2"
   resolved "https://registry.npmjs.org/@capacitor/preferences/-/preferences-4.0.2.tgz"
