@@ -38,7 +38,7 @@
 		</data>
 		<key>Frameworks/Capacitor.framework/Capacitor</key>
 		<data>
-		2p9iciixTbKWMdkcLg1GQuqlQSo=
+		dCkOCx1zbuWptqZm1dRg99hnD24=
 		</data>
 		<key>Frameworks/Capacitor.framework/Info.plist</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Frameworks/CapacitorCamera.framework/CapacitorCamera</key>
 		<data>
-		zhSWhnYyDXwIlA+5pa36dbdBNgE=
+		9XgolQmNObHsExXtXBHJBCEZCz4=
 		</data>
 		<key>Frameworks/CapacitorCamera.framework/Info.plist</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Frameworks/CapacitorCommunitySpeechRecognition.framework/CapacitorCommunitySpeechRecognition</key>
 		<data>
-		E9/NI0cYEuZHocqbYRitKSfwGJs=
+		iz7HluaGi9IXtko8wE79V0dDaxw=
 		</data>
 		<key>Frameworks/CapacitorCommunitySpeechRecognition.framework/Info.plist</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Frameworks/CapacitorFilesystem.framework/CapacitorFilesystem</key>
 		<data>
-		aeMKE7R/6Zia1ZIiEbe4lojI2Uo=
+		GVaRtC+J4w9hu+REv8AqwJAsnSQ=
 		</data>
 		<key>Frameworks/CapacitorFilesystem.framework/Info.plist</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Frameworks/CapacitorGeolocation.framework/CapacitorGeolocation</key>
 		<data>
-		b0N2tIeri8+tP/58efduU7Dco88=
+		c7eSQOErjFRL07nwknAsXZqAAw0=
 		</data>
 		<key>Frameworks/CapacitorGeolocation.framework/Info.plist</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Frameworks/CapacitorPreferences.framework/CapacitorPreferences</key>
 		<data>
-		CHO9Bqi+xoPQkXzfNHS2uaj9dMA=
+		yIRB1jQgsU93u/u8A6ARqgHD2Hw=
 		</data>
 		<key>Frameworks/CapacitorPreferences.framework/Info.plist</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>Frameworks/CapacitorToast.framework/CapacitorToast</key>
 		<data>
-		kw1ru3B8DGYFSz/SspcRI7FuzI4=
+		oP98mySlpZX1QP5R2+/7LO7kG94=
 		</data>
 		<key>Frameworks/CapacitorToast.framework/Info.plist</key>
 		<data>
@@ -126,7 +126,7 @@
 		</data>
 		<key>Frameworks/Cordova.framework/Cordova</key>
 		<data>
-		M2CaBU4YK9nx/V2+59c8juRdshA=
+		bSTyQDUq7dmDIGFBM57jiJt7Mro=
 		</data>
 		<key>Frameworks/Cordova.framework/Info.plist</key>
 		<data>
@@ -158,7 +158,7 @@
 		</data>
 		<key>public/asset-manifest.json</key>
 		<data>
-		WwEoacWCiPuuFO3ErQFhRftaKwE=
+		9zTk7jTFCLWX0Ybn/4juhGZNGx4=
 		</data>
 		<key>public/assets/icon/fav.png</key>
 		<data>
@@ -176,10 +176,6 @@
 		<data>
 		VBPpWtq8sstjmXAFH1Xg3bZKzlM=
 		</data>
-		<key>public/capacitor.js</key>
-		<data>
-		mIGVUidfdrPeI1pl9TD1EDRaUiI=
-		</data>
 		<key>public/cordova.js</key>
 		<data>
 		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
@@ -190,7 +186,7 @@
 		</data>
 		<key>public/index.html</key>
 		<data>
-		4acqKlBMqL6uFJcXle1ILFny+sA=
+		7SapfJnWLiZ5IAGG6RKkCHU5NKA=
 		</data>
 		<key>public/manifest.json</key>
 		<data>
@@ -255,14 +251,6 @@
 		<key>public/static/js/372.c16ef871.chunk.js.map</key>
 		<data>
 		EQgZAsF4qdYigh6cfyiZWDfhhec=
-		</data>
-		<key>public/static/js/434.198cd115.chunk.js</key>
-		<data>
-		Bs3CMsaK95xyD+iDCVYG6ReiQGE=
-		</data>
-		<key>public/static/js/434.198cd115.chunk.js.map</key>
-		<data>
-		M6jk3GzLDfJ5HQIu/+B/GX/Hw7g=
 		</data>
 		<key>public/static/js/538.c03a8c60.chunk.js</key>
 		<data>
@@ -364,14 +352,6 @@
 		<data>
 		rgoNhpWS/wLqaUJyHuLIQAmysm4=
 		</data>
-		<key>public/static/js/879.c1c469c8.chunk.js</key>
-		<data>
-		iVe25nIlmEQiWzbMf9ZB5nvYJHM=
-		</data>
-		<key>public/static/js/879.c1c469c8.chunk.js.map</key>
-		<data>
-		5XD55gxPz75K1r0UdrqrITclAhw=
-		</data>
 		<key>public/static/js/908.b5066a01.chunk.js</key>
 		<data>
 		3DqcyIK3hpCW3qkmBd54l2xXM0o=
@@ -380,17 +360,17 @@
 		<data>
 		m6g+tIlGwhzJLv4/NEQz43u2hpU=
 		</data>
-		<key>public/static/js/main.5976bc85.js</key>
+		<key>public/static/js/main.04c13564.js</key>
 		<data>
-		VZhi9tYOOIaqj8tOyPYBLQrnrzk=
+		XWkIDhqAwNaAyYWQLq4vgck7CEA=
 		</data>
-		<key>public/static/js/main.5976bc85.js.LICENSE.txt</key>
+		<key>public/static/js/main.04c13564.js.LICENSE.txt</key>
 		<data>
 		aZjlwG4TAEDOPzQ9tH28OQX5k7o=
 		</data>
-		<key>public/static/js/main.5976bc85.js.map</key>
+		<key>public/static/js/main.04c13564.js.map</key>
 		<data>
-		XgpRaXkAbtzszmF7Gl8uuVoUay4=
+		8lTQZVXI1k2cugNyVJ4KBEHDlU8=
 		</data>
 		<key>public/static/js/stencil-polyfills-css-shim.f781fa2b.chunk.js</key>
 		<data>
@@ -475,7 +455,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qr5XHB5Bv5aPUNT5Q++gnmrIBOyxXoc1il2RfPNsBQc=
+			NtMAdlFSWYyBnqHkjrD5Vdk/47VJZAPC/R6spLBlhPk=
 			</data>
 		</dict>
 		<key>Frameworks/Capacitor.framework/Info.plist</key>
@@ -503,7 +483,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vVqtyzi0EZWQ6jXJQsXVovLLFB9FhMF9r4d3qVrV99A=
+			lXICVH+Xpwpj4tz/7Uq+lJ+2oVc46l98eC2xYKLQ81o=
 			</data>
 		</dict>
 		<key>Frameworks/CapacitorCamera.framework/Info.plist</key>
@@ -524,7 +504,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fIwB+HoBsWgRqFoBUqbX0YecbdY/nmz6V6KMdJ4EXWM=
+			6PypYRIrFVKmIa9LDYQ9JLZSH1xhgzmtNxXsVOwu/QM=
 			</data>
 		</dict>
 		<key>Frameworks/CapacitorCommunitySpeechRecognition.framework/Info.plist</key>
@@ -545,7 +525,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+rdKs3VnUqo3UJnrXp4lECFyfYuySERWI/VfYxFX5uA=
+			vTtzqpn89YkGUCRtjMOQsVmsLsU+rvB/qtZ6iPEtaMU=
 			</data>
 		</dict>
 		<key>Frameworks/CapacitorFilesystem.framework/Info.plist</key>
@@ -566,7 +546,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			X4giLhq/zJhHZXf+4/FbQ+ZRiVOOfCOAQVEuwcywlmc=
+			CgpmvCEOr9SzQ6QyL4vIHtPfHVzWmNUK4UFajCP/efA=
 			</data>
 		</dict>
 		<key>Frameworks/CapacitorGeolocation.framework/Info.plist</key>
@@ -587,7 +567,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HUeqLcM9bZs+qj+GK0M/yI/E42V0KsXZzt7mwVO1JuM=
+			/O520ViV41h4+g23qnstn5CkNF035gLAXLp9ieqlEJ0=
 			</data>
 		</dict>
 		<key>Frameworks/CapacitorPreferences.framework/Info.plist</key>
@@ -608,7 +588,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iJLApdTQmcvK+8p4vvsgKmeG2f8PfsUZsU14RpDbnFY=
+			vfARKmkDl1osxLEYvN9/hv3oA1l1QnH7Tfet00bZCi4=
 			</data>
 		</dict>
 		<key>Frameworks/CapacitorToast.framework/Info.plist</key>
@@ -629,7 +609,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bwaLKlORT62h3ZzlRzYYuQmaFqcyj8NRofm9t5YlQ9Y=
+			9AxvvKp+hE21QmAXVniYJ0Uju5BZk2JXlfSoERjq3PI=
 			</data>
 		</dict>
 		<key>Frameworks/Cordova.framework/Info.plist</key>
@@ -671,7 +651,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gGM2nQFDweVQUC4yKd9r1Xv5LEQmQ73ZaEyAtarYCN8=
+			05lxPylBMlH3M855WG0zDSsEpwTWi+2Lgjdszrx1iog=
 			</data>
 		</dict>
 		<key>public/assets/icon/fav.png</key>
@@ -702,13 +682,6 @@
 			zxtoKBcW9FLdYg+B/THZi/733VIbgJhDNxC9p6MpGPI=
 			</data>
 		</dict>
-		<key>public/capacitor.js</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Q2MOAQ0GzAfvQ2DGLdVg7+KWd6o78gl0xqeXp39ENp0=
-			</data>
-		</dict>
 		<key>public/cordova.js</key>
 		<dict>
 			<key>hash2</key>
@@ -727,7 +700,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UnTV1h4lwuyLVnFz8VjR1v5rX2O8EUajqDfQchBJ+XA=
+			6UROGVvCs7OaZVGgYemqquuZoZWtqQFqvuT0Gg+bFrs=
 			</data>
 		</dict>
 		<key>public/manifest.json</key>
@@ -840,20 +813,6 @@
 			<key>hash2</key>
 			<data>
 			w5lw7liEgmaGE8sjANSw3uuSYZ7E1pdIgcFM1N3HDw0=
-			</data>
-		</dict>
-		<key>public/static/js/434.198cd115.chunk.js</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			b9O0NmZxp38Vq2bJVLpeVnXFiJdP8WBIvJKOQ2kqjf8=
-			</data>
-		</dict>
-		<key>public/static/js/434.198cd115.chunk.js.map</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			zXtFpAKNGN69ybqC7X1y5LJ9TxsKv9ONM8OOF4KXdr8=
 			</data>
 		</dict>
 		<key>public/static/js/538.c03a8c60.chunk.js</key>
@@ -1031,20 +990,6 @@
 			tpU+crVk+y1XuZukWuVklehW2wbqGefvDWL1kBm+l00=
 			</data>
 		</dict>
-		<key>public/static/js/879.c1c469c8.chunk.js</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			tgdflIRI96R8DXgNznXbZnouWl8yI2rU1Il13j4Hk/s=
-			</data>
-		</dict>
-		<key>public/static/js/879.c1c469c8.chunk.js.map</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			bR/eQA1tSuJ1nsASvN58HzWy0mqlgzAqyJSdvv5pXtA=
-			</data>
-		</dict>
 		<key>public/static/js/908.b5066a01.chunk.js</key>
 		<dict>
 			<key>hash2</key>
@@ -1059,25 +1004,25 @@
 			bj8XMepPnqzMOAPj2JtHkz42iXM/VmDyeQxggU/QV6M=
 			</data>
 		</dict>
-		<key>public/static/js/main.5976bc85.js</key>
+		<key>public/static/js/main.04c13564.js</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IFF0+MF8dTPtAKOLmiGQppHpwrSOxB+cjv8qDrmuoBU=
+			Gbx0dLiGmM/J0ov0EKoRXY5I+5V2B9PuTNAbpcxy/ts=
 			</data>
 		</dict>
-		<key>public/static/js/main.5976bc85.js.LICENSE.txt</key>
+		<key>public/static/js/main.04c13564.js.LICENSE.txt</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			pTh8yPeUYvFF4cILuvKirQKdvd30yMv4nAgwXK07Fdw=
 			</data>
 		</dict>
-		<key>public/static/js/main.5976bc85.js.map</key>
+		<key>public/static/js/main.04c13564.js.map</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RkBWlOG0x2iun9wZZwkzmcJnlNA5QKdS0iKoKQ2rLFw=
+			G6je8kNveVZ8aQaau/UcbECPAZlZpUPwr2kcyVdHzVQ=
 			</data>
 		</dict>
 		<key>public/static/js/stencil-polyfills-css-shim.f781fa2b.chunk.js</key>

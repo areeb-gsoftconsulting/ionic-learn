@@ -18,10 +18,10 @@ const Tab1: React.FC = () => {
     try {
       let result = await SpeechRecognition.start({
         language: "en-US",
-        maxResults: 2,
-        prompt: "Say something",
-        partialResults: true,
-        popup: true,
+        maxResults: 1,
+        prompt: "Welcome to Factory Girl",
+        partialResults: false,
+        popup: false,
       });
       const speechResult = result?.matches[0];
       setTranscript(speechResult);
@@ -30,6 +30,22 @@ const Tab1: React.FC = () => {
       alert("Plz try again");
     }
   };
+
+  // const handleVoice = async () => {
+  //   let result = await SpeechRecognition.start({
+  //     language: "en-US",
+  //     maxResults: 2,
+  //     prompt: "Welcome to Factory Girl",
+  //     partialResults: true,
+  //     popup: true,
+  //   })
+  //     .then(function imDone(e: any) {
+  //       console.log("done", result);
+  //     })
+  //     .catch(function imFail() {
+  //       console.log("failed");
+  //     });
+  // };
   const handleStop = () => {
     SpeechRecognition.stop();
   };
@@ -52,6 +68,9 @@ const Tab1: React.FC = () => {
         <IonHeader collapse="condense">
           <IonToolbar>
             <IonTitle size="large">Tab 1</IonTitle>
+            <IonTitle size="large">Title</IonTitle>
+            <IonTitle size="large">Title</IonTitle>
+            <IonTitle size="large">Title</IonTitle>
             <IonTitle size="large">Title</IonTitle>
 
             <IonButton onClick={handleVoice}>Start Voice</IonButton>
