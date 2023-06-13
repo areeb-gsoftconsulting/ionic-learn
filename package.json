@@ -12,6 +12,7 @@
     "@capacitor/ios": "^5.0.0",
     "@capacitor/local-notifications": "^4.0.4",
     "@capacitor/preferences": "^4.0.1",
+    "@capacitor/push-notifications": "^4.0.4",
     "@capacitor/toast": "^5.0.2",
     "@ionic/pwa-elements": "^3.1.1",
     "@ionic/react": "^6.0.0",

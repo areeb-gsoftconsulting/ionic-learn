@@ -11,9 +11,37 @@ import ExploreContainer from "../components/ExploreContainer";
 import "./Tab1.css";
 import { SpeechRecognition } from "@capacitor-community/speech-recognition";
 import { LocalNotifications } from "@capacitor/local-notifications";
+import { PushNotifications } from "@capacitor/push-notifications";
 
 const Tab1: React.FC = () => {
   const [transcript, setTranscript] = useState("");
+
+  const registerNotifications = async () => {
+    let permStatus = await PushNotifications.checkPermissions();
+
+    if (permStatus.receive === "prompt") {
+      permStatus = await PushNotifications.requestPermissions();
+    }
+
+    if (permStatus.receive !== "granted") {
+      throw new Error("User denied permissions!");
+    }
+
+    let token = await PushNotifications.register();
+    console.log({ token });
+    PushNotifications.addListener("registration", (token: any) => {
+      console.log(token, "Push registration success");
+    });
+
+    // Some issue with our setup and push will not work
+    PushNotifications.addListener("registrationError", (error: any) => {
+      alert("Error on registration: " + JSON.stringify(error));
+    });
+  };
+
+  useEffect(() => {
+    registerNotifications();
+  }, []);
 
   const handleVoice = async () => {
     try {
